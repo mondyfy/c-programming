@@ -1,0 +1,54 @@
+# Compiled Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Compiled Dynamic Libraries
+*.so
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Precompiled Headers
+*.gch
+
+# Dependency files
+*.d
+
+# Directories
+.vscode/
+.DS_Store
+/.vscode
+/.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+
+# CMake build directory
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+CMakeScripts/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Eclipse
+.settings/
+bin/
+.metadata/
+
+# Code::Blocks
+bin/
+obj/
