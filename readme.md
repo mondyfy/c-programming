@@ -1,6 +1,6 @@
 # C Programming Zero to Hero
 
-Welcome to the ]"C Programming Zero to Hero"](https://youtube.com/playlist?list=PLBR2W-ptbnM0kq3wSSM7uJPTkArtYxpcZ&si=FjMwbyWB1qALB4Fp) tutorial series repository! This repository contains a comprehensive guide to learning C programming, from the very basics to more advanced topics. Whether you're a beginner looking to start your programming journey or an experienced developer aiming to brush up on your C skills, you've come to the right place.
+Welcome to the ["C Programming Zero to Hero"](https://youtube.com/playlist?list=PLBR2W-ptbnM0kq3wSSM7uJPTkArtYxpcZ&si=FjMwbyWB1qALB4Fp) tutorial series repository! This repository contains a comprehensive guide to learning C programming, from the very basics to more advanced topics. Whether you're a beginner looking to start your programming journey or an experienced developer aiming to brush up on your C skills, you've come to the right place.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Welcome to the ]"C Programming Zero to Hero"](https://youtube.com/playlist?list=
 
 ## Introduction
 
-This repository is part of our []"C Programming Zero to Hero"](https://youtube.com/playlist?list=PLBR2W-ptbnM0kq3wSSM7uJPTkArtYxpcZ&si=FjMwbyWB1qALB4Fp) tutorial series, designed to provide you with a structured and in-depth learning path for C programming. We believe that everyone can become a proficient C programmer with the right guidance, and our tutorials are created to make your learning experience enjoyable and effective.
+This repository is part of our ["C Programming Zero to Hero"](https://youtube.com/playlist?list=PLBR2W-ptbnM0kq3wSSM7uJPTkArtYxpcZ&si=FjMwbyWB1qALB4Fp) tutorial series, designed to provide you with a structured and in-depth learning path for C programming. We believe that everyone can become a proficient C programmer with the right guidance, and our tutorials are created to make your learning experience enjoyable and effective.
 
 ## Getting Started
 
