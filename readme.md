@@ -1,4 +1,3 @@
-```markdown
 # C Programming Zero to Hero
 
 Welcome to the ]"C Programming Zero to Hero"](https://youtube.com/playlist?list=PLBR2W-ptbnM0kq3wSSM7uJPTkArtYxpcZ&si=FjMwbyWB1qALB4Fp) tutorial series repository! This repository contains a comprehensive guide to learning C programming, from the very basics to more advanced topics. Whether you're a beginner looking to start your programming journey or an experienced developer aiming to brush up on your C skills, you've come to the right place.
@@ -52,4 +51,3 @@ We welcome contributions from the community to improve and expand this tutorial 
 This tutorial series and its accompanying code examples are released under the [MIT License](LICENSE). You are free to use, modify, and distribute the content as long as you provide appropriate attribution.
 
 Happy coding, and let's embark on this exciting journey to becoming a C programming hero together!
-```
