@@ -30,18 +30,19 @@ int main()
 
     // Create a structure variable and assign values to it
     struct myStructure s2 = {23, 'C', "Another text"};
+    
     // Print values
     printf("%d %c %s \n", s2.myNum, s2.myLetter, s2.myString);
 
     struct myStructure s3;
 
-    // Copy s1 values to s2
+    // Copy s1 values to s3
     s3 = s1;
 
     // Print values
     printf("%d %c %s \n", s3.myNum, s3.myLetter, s3.myString);
 
-    // Change s2 values
+    // Change s3 values
     s3.myNum = 30;
     s3.myLetter = 'D';
     strcpy(s3.myString, "Something else");
